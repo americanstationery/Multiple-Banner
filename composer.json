@@ -1,0 +1,9 @@
+{
+    "name": "americanstationery/multiple-banner",
+    "license": "GPLv3",
+    "type": "magento-module",
+    "description": "Multiple Banners Extension allows you to design sliding banners for Magento.",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
