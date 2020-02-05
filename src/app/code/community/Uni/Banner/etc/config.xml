@@ -65,12 +65,12 @@
                     <banner module="banner">
                         <title>Manage Banners</title>
                         <sort_order>0</sort_order>
-                        <action>banner/adminhtml_banner</action>
+                        <action>adminhtml/banner_banner</action>
                     </banner>
                     <bannergroup module="banner">
                         <title>Manage Banner Groups</title>
                         <sort_order>1</sort_order>
-                        <action>banner/adminhtml_bannergroup</action>
+                        <action>adminhtml/banner_bannergroup</action>
                     </bannergroup>
                     <bannersetting module="banner">
                         <title>Settings</title>
